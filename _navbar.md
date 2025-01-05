@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
 * [首页](/)
-* [周记](weekly/list)
+* [周记](content/list)
